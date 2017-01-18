@@ -16,5 +16,17 @@ namespace SimpleTicTacToe
         {
             InitializeComponent();
         }
+
+        private void button_MouseClick(object sender, MouseEventArgs e)
+        {
+
+        }
+
+        private void restartToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
+
+    
